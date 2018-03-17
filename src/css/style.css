@@ -813,7 +813,8 @@ header .navbar .cta-btn a:hover {
 }
 
 .copyright {
-  font-size: 14px;
+  font-size: 4px;
+  color: lightgray;
 }
 
 .element-animate {
